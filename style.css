@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 2;
+}
+h1{
+    font-size: 50px;
+}
+.new{
+    color:rgb(8, 130, 130);
+}
+section{
+    display: flex;
+}
+.halp{
+    width: 50%;
+    padding: 2%;
+}
+.halp img{
+    width: 100%;
+}
+.boro{
+    font-size:22px;
+}
+.background{
+    background-image:url(images/Rafi4.png);
+    background-repeat:no-repeat;
+}
+.link{
+  font-size: 25px;
+  background-repeat: no-repeat;
+  padding-bottom: 30px 100px;
+  text-decoration: none;
+background-image:linear-gradient(blue, cyan);
+  border: 5px;
+}
