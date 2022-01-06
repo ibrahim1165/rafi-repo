@@ -33,3 +33,11 @@ section{
 background-image:linear-gradient(blue, cyan);
   border: 5px;
 }
+.vlog{
+    background-image:url(images/drem-bg.png);
+    background-repeat:no-repeat;
+   background-position:right;
+}
+.footer{
+    text-align:center;
+}
